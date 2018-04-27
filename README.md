@@ -15,3 +15,13 @@ stuff for workshop 'First steps in react '
  # API details
 Open launch library api is used for this task. More details 
 https://launchlibrary.net/docs/1.3/api.html
+
+Application was created using create-react-app boilerplate. More details 
+https://github.com/facebook/create-react-app
+
+Additionally you need to install 'prop-types' library. More details
+https://github.com/facebook/prop-types . To install simply run 
+
+```shell
+npm install --save prop-types
+```
